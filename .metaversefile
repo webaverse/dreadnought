@@ -1,0 +1,11 @@
+{
+  "name": "dreadnought",
+  "start_url": "dreadnought.glb",
+  "components": [
+    {
+      "type": "sit",
+      "subtype": "saddle",
+      "sitBone": "Spine"
+    }
+  ]
+}
